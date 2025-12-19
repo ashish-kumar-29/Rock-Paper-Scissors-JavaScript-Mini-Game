@@ -33,7 +33,9 @@ The game updates the result dynamically on the screen, providing an engaging and
 ---
 
 ## 🚀 Live Demo
-Play Rock–Paper–Scissors game
+
+[![Play Game](https://img.shields.io/badge/▶%20Play%20Game-Click%20Here-brightgreen?style=for-the-badge)](https://ashish-kumar-29.github.io/Rock-Paper-Scissors-JavaScript-Mini-Game/)
+
 
 ---
 
